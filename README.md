@@ -1,2 +1,6 @@
-# I_Graphics-
-All file of i graphics  header and my project
+# iGraphics-Files
+
+Working IDE:
+
+Visual Studio 2010
+Visual Studio 2013
